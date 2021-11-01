@@ -18,6 +18,6 @@ c) Prova de Stress
 
 ### Ferramentas
 
-JMeter
+JMeter (Blaze Meter no Cloud)
 
 K6
