@@ -7,11 +7,10 @@
 ### Tipos de provas de testes
 
 a) Prova de Carga
+
 b) Prova de Imersão
+
 c) Prova de Stress
-d) Single - Uma Transação
-e) Alta Concorrência
-d) UX - Prova de experiência de usuário
 
 ### Documentação
 
