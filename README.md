@@ -24,10 +24,10 @@ K6
 
 ### Ferramentas
 
-| Solução     | Free              | Básico                | 5000 Users  |
-|-------------|-------------------|-----------------------|-------------|
-| LoadView    | U$ 20,00          | U$  90,00 1.000 Users | U$  500,00  |
-| BlazeMeter  | 50 Users 10 Test  | U$ 150,00 1.000 Users | U$  650,00  |
-| K6          | Tem, sem detalhes | U$ 424,00 1.000 Users | U$ 1500,00  |
-| WebLoad     | 50 Users          |                       |             |
-| LoadFocus   | 20 Users          | U$  90,00 1.000 Users | U%  400,00  |
+| Solução     | Free              | 1.000 Users | 5000 Users  |
+|-------------|-------------------|-------------|-------------|
+| LoadView    | U$ 20,00          |  U$  90,00  | U$  500,00  |
+| BlazeMeter  | 50 Users 10 Test  |  U$ 150,00  | U$  650,00  |
+| K6          | Tem, sem detalhes |  U$ 424,00  | U$ 1500,00  |
+| WebLoad     | 50 Users          |             |             |
+| LoadFocus   | 20 Users          |  U$  90,00  | U%  400,00  |
