@@ -24,7 +24,7 @@ K6
 
 ### Ferramentas
 
-| Solução     | Free              | 1.000 Users | 5000 Users  |
+| Solução     | Free              | 1.000 Users | 5.000 Users |
 |-------------|-------------------|-------------|-------------|
 | LoadView    | U$ 20,00          |  U$  90,00  | U$  500,00  |
 | BlazeMeter  | 50 Users 10 Test  |  U$ 150,00  | U$  650,00  |
