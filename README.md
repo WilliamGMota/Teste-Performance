@@ -5,6 +5,7 @@
 - Quais processos e quantos usuário?
 - Quantos Threads?
 - Qual tempo para temporizadores?
+- Qual o tempo da bateria de testes?
 - Qual critério de configuração do load balancing?
 - Acessos simutaneos ou entradas escalável.
 
