@@ -26,10 +26,6 @@ b) Prova de Imersão
 
 c) Prova de Stress
 
-### Documentação
-
-[Teste de Desempenho](http://www.linhadecodigo.com.br/artigo/3256/teste-de-desempenho-conceitos-objetivos-e-aplicacao-parte-1.aspx)
-
 ### Ferramentas
 
 JMeter (Blaze Meter no Cloud)
@@ -45,3 +41,7 @@ K6
 | K6          | Tem, sem detalhes |  U$ 424,00  | U$ 1500,00  |
 | WebLoad     | 50 Users          |             |             |
 | LoadFocus   | 20 Users          |  U$  90,00  | U%  400,00  |
+
+### Documentação e Referência
+
+[Teste de Desempenho](http://www.linhadecodigo.com.br/artigo/3256/teste-de-desempenho-conceitos-objetivos-e-aplicacao-parte-1.aspx)
