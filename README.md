@@ -1,14 +1,22 @@
 # Teste-Performance
 
-### Etapas
-
-1) Planejamento
+### Planejamento
 
 - Quais processos e quantos usuário?
 - Quantos Threads?
 - Qual tempo para temporizadores?
 - Qual critério de configuração do load balancing?
 - Acessos simutaneos ou entradas escalável.
+
+### Percentual de Problemas
+
+| %    | Camada             |
+|------|--------------------|
+| 40 % | Application Server |
+| 30 % | Database           |
+| 20 % | NetWork            |
+| 10 % | WebServer          |
+
 
 ### Tipos de provas de testes
 
