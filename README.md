@@ -4,11 +4,9 @@
 
 1) Planejamento
 
-  Quais processos e quantos usuário?
-  
-  Qual critério de configuração do load balancing?
-  
-  Acessos simutaneos ou entradas escalável.
+- Quais processos e quantos usuário?
+- Qual critério de configuração do load balancing?
+- Acessos simutaneos ou entradas escalável.
 
 ### Tipos de provas de testes
 
