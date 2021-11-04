@@ -14,7 +14,7 @@
 |------|--------------------|
 | 40 % | Application Server |
 | 30 % | Database           |
-| 20 % | NetWork            |
+| 20 % | Network            |
 | 10 % | WebServer          |
 
 
