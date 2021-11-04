@@ -9,6 +9,7 @@
 - Qual o tempo da bateria de testes?
 - Qual critério de configuração do load balancing?
 - Acessos simutaneos ou entradas escalável.
+- Think time, tempo de espera entre operações
 
 ### Percentual de Problemas
 
